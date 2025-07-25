@@ -2,6 +2,7 @@ import qrcode        #make(data)==>qrcode, save (file name) ==>file save korbve
 
 # text = input("Enter the text to convert in the qr code:") 
 # filename = input("Enter the filename to save the qr code:")
+#  test
 
 
 def generate_qr_code(filepath):
